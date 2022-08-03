@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.09ea3d85.css",
+    "main.js": "/static/js/main.700b8a71.js",
+    "static/media/management.PNG": "/static/media/management.754a59568e4f1ed6a796.PNG",
+    "static/media/finalPro.png": "/static/media/finalPro.986c1c6acb919d73a079.png",
+    "static/media/studentManage.PNG": "/static/media/studentManage.fbb2f8f2d935ec1b6c20.PNG",
+    "static/media/commerce.PNG": "/static/media/commerce.258e6f5b265159e29c4d.PNG",
+    "static/media/Palash Hawee.pdf": "/static/media/Palash Hawee.47bf71528531ce1ff9a6.pdf",
+    "static/media/about-me.JPG": "/static/media/about-me.fb727304a71b5c0fc194.JPG",
+    "index.html": "/index.html",
+    "main.09ea3d85.css.map": "/static/css/main.09ea3d85.css.map",
+    "main.700b8a71.js.map": "/static/js/main.700b8a71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09ea3d85.css",
+    "static/js/main.700b8a71.js"
+  ]
+}
