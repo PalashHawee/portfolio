@@ -18,8 +18,9 @@ const About = () => {
             focus on user experience, a hands-on, high-energy approach, and
             well-developed Agile methodology capabilities. Have developed a
             number of web applications and softwares, including a Face
-            Recognition Student Management System using Python and real time
-            E-Commerce Website with React and TypeScript.
+            Recognition Student Management System using Python with Machine
+            Learning Algorithm and real time E-Commerce Website with React and
+            TypeScript.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
