@@ -31,13 +31,13 @@ const Nav = () => {
       >
         <FaTools />
       </a>
-      <a
+      {/* <a
         href="#education"
         onClick={() => setActiveNav("#education")}
         className={activeNav === "#education" ? "active" : ""}
       >
         <MdOutlineCastForEducation />
-      </a>
+      </a> */}
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}

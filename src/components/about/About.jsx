@@ -14,10 +14,12 @@ const About = () => {
         </div>
         <div className="about__content">
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti,
-            saepe voluptatem accusamus delectus, obcaecati quisquam maiores
-            ducimus doloremque eum harum animi provident. Impedit itaque nulla
-            eum iusto tempore? Possimus, voluptates?
+            Graduate of Master of Computer Applications (MCA) with a strong
+            focus on user experience, a hands-on, high-energy approach, and
+            well-developed Agile methodology capabilities. Have developed a
+            number of web applications and softwares, including a Face
+            Recognition Student Management System using Python and real time
+            E-Commerce Website with React and TypeScript.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
